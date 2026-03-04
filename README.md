@@ -24,6 +24,7 @@ Format: CSV
 Main focus: Listings, host information, pricing, and reviews
 
 🔧 Data Cleaning Steps
+
 1️⃣ Column Selection
 
 Removed low-value and irrelevant columns
